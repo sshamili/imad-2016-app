@@ -1,6 +1,6 @@
 body {
-    font-family: sans-serif;
-    background-color: lightgrey;
+    font-family: Veranda;
+    background-color: cyan;
     margin-top: 75px;
 }
 
@@ -12,10 +12,14 @@ body {
     font-size: 300%;
 }
 
+/*
 .bold {
     font-weight: bold;
 }
-
+*/
+.lighter {
+    font-weight: lighter;
+}
 .img-medium {
     height: 200px;
 }
